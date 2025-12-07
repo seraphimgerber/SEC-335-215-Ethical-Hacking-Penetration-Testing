@@ -26,4 +26,38 @@ This course will take students through the incident handling process. Today’s 
 
 # Modules
 
-##
+### Module 4 - Manual Vulnerability Detection
+
+[Activity 4.1 - Exploiting Cupcake](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Lab-4.1:-Exploiting-Cupcake)
+
+### Module 5 - Password Guessing
+
+[Lab 5.1 - Password-Guessing](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Lab-5.1:-Password%E2%80%90Guessing)
+
+### Module 6 - Password Cracking
+
+[Activity 6.1 Password Cracking - Linux](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Lab-6.1:-Password-Cracking-%E2%80%90-Linux)
+
+### Module 7 - Exploiting Pippin - File Upload Vulnerabilities, WebShells, and Database
+
+[Lab 7.1 - Exploiting Pippin](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Lab-7.1:-Exploiting-Pippin)
+
+### Module 8 - Reverse Shells
+
+[Class Activity 8.1 - Weevely & Class Activity 8.2 - Reverse Shells](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Activity-8.1%E2%80%908.2:-Weevely-&-Reverse-Shells)
+
+### Module 9 - SQLi and Exploiting Gloin
+
+[Lab 9.2 - Exploiting Gloin](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Lab-9.2:-Exploiting-Gloin)
+
+### Module 10 - Permission Errors and Exploiting Nancurinir
+
+[Class Activity 10.1 - Linux - Permission Vulnerabilities](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Activity-10.1:-Linux-%E2%80%90-Permission-Vulnerabilities)
+
+[Lab 10.2 - Exploiting Nancurinir](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Lab-10.2:-Exploiting-Nancurinir)
+
+### Module 11 - The Metasploit Framework and the Final Pentest
+
+[Class Activity 11.1 - The Metasploit Framework](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Activity-11.1:-The-Metasploit-Framework)
+
+[Final Pentest Report](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Final-Pentest-Report)
