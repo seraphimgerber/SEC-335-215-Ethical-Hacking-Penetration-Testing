@@ -45,6 +45,7 @@ This course will take students through the incident handling process. Today’s 
 ### Module 8 - Reverse Shells
 
 [Class Activity 8.1 - Weevely](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Activity-8.1%E2%80%908.2:-Weevely-&-Reverse-Shells)
+
 [Class Activity 8.2 - Reverse Shells](https://github.com/seraphimgerber/SEC-335-215-Ethical-Hacking-Penetration-Testing/wiki/Activity-8.1%E2%80%908.2:-Weevely-&-Reverse-Shells#class-activity-82---reverse-shells)
 
 ### Module 9 - SQLi and Exploiting Gloin
